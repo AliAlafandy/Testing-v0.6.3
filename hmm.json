@@ -3,18 +3,21 @@
     {
       "name": "discord_rpc",
       "type": "git",
+      "dir": null,
       "ref": "master",
       "url": "https://github.com/Aidan63/linc_discord-rpc"
     },
     {
       "name": "linc_luajit",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/AliAlafandy/linc_luajit"
     },
     {
       "name": "extension-androidtools",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/MAJigsaw77/extension-androidtools"
     },
@@ -41,12 +44,14 @@
     {
       "name": "hxCodec",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/AliAlafandy/hxCodec"
     },
     {
       "name": "lime",
       "type": "git",
+      "dir": null,
       "ref": "main",
       "url": "https://github.com/AliAlafandy/lime"
     },
